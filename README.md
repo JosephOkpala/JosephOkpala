@@ -15,4 +15,6 @@ I'm a Software Engineer, Web Developer and a Tech Enthusiat...
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephOkpala&theme=radical)
+
 | ------------- | ------------- |
