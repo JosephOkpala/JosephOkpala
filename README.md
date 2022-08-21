@@ -15,5 +15,7 @@ I'm a Software Engineer, Web Developer and a Tech Enthusiat...
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephOkpala&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOkpala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JosephOkpala&theme=radical" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOkpala&layout=compact" />
 
