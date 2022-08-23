@@ -16,7 +16,7 @@ I'm a Software Engineer, Web Developer and a Tech Enthusiat...
 ---
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JosephOkpala&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOkpala&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOkpala&layout=compact&theme=radical" />
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
