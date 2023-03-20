@@ -14,7 +14,7 @@ I'm a Software Engineer, Web Developer and a Tech Enthusiast...
 
 ---
 
-<img align="left" width="47%" src="https://github-readme-stats-phi-lac-40.vercel.app/api?username=JosephOkpala&theme=radical" />
+<img align="left" width="47%" alt='Github Reame Stats' src="https://github-readme-stats-phi-lac-40.vercel.app/api?username=JosephOkpala&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats-phi-lac-40.vercel.app/api/top-langs/?username=JosephOkpala&layout=compact&theme=radical" />
 
 
