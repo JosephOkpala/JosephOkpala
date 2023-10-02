@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephokpala&theme=radical&show_icons=true&locale=en" alt="josephokpala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephokpala&" alt="josephokpala" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephokpala&theme=radical"" alt="josephokpala" /></p>
 
